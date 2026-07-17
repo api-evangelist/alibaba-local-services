@@ -1,0 +1,24 @@
+aid: alibaba-local-services
+name: Alibaba Local Services
+description: 'Alibaba Local Services is a company surfaced as a portfolio company of softbank-vision-fund
+  and added to the API Evangelist network as a stub for enrichment. Sector: logistics. This profile is
+  a lead awaiting the enrichment pipeline.'
+url: https://raw.githubusercontent.com/api-evangelist/alibaba-local-services/refs/heads/main/apis.yml
+x-type: company
+x-source: vc-portfolio
+x-backed-by:
+- softbank-vision-fund
+x-tier: stub
+x-tier-reason: portfolio-lead
+specificationVersion: '0.20'
+created: '2026-07-17'
+modified: '2026-07-17'
+tags:
+- Company
+- Logistics
+apis: []
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com
+- FN: APIs.json
+  email: info@apis.io
