@@ -1,8 +1,25 @@
 aid: alibaba-local-services
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/alibaba-local-services.png
 name: Alibaba Local Services
-description: 'Alibaba Local Services is a company surfaced as a portfolio company of softbank-vision-fund
-  and added to the API Evangelist network as a stub for enrichment. Sector: logistics. This profile is
-  a lead awaiting the enrichment pipeline.'
+description: 'Alibaba Local Services (阿里巴巴本地生活) is Alibaba Group''s on-demand local-life
+  services business, formed in 2018 by integrating the Ele.me food-delivery platform with the Koubei
+  local-services and restaurant-discovery platform. It operates on-demand food and grocery delivery,
+  local merchant services, reviews and reservations, and last-mile logistics across China, and received
+  a major financing round led by the SoftBank Vision Fund. This API Evangelist profile was surfaced as a
+  SoftBank Vision Fund portfolio company and added to the network as a lead; no distinct public developer
+  API surface has been confirmed for the holding entity under this name (its consumer platforms Ele.me and
+  Koubei operate their own separate open platforms).'
 url: https://raw.githubusercontent.com/api-evangelist/alibaba-local-services/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -16,9 +33,20 @@ modified: '2026-07-17'
 tags:
 - Company
 - Logistics
+- Food Delivery
+- Local Services
+- On-Demand
+- Delivery
+- E-Commerce
+- China
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
