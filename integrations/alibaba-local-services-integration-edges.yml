@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/alibaba-local-services/integrations
+- https://n8n.io/integrations/alibaba-local-services/
+- https://composio.dev/toolkits/alibaba-local-services
+- https://monid.ai/tools/alibaba-local-services
+checked:
+- https://composio.dev/toolkits/alibaba-local-services
+- https://monid.ai/tools/alibaba-local-services
+- https://n8n.io/integrations/alibaba-local-services/
+- https://zapier.com/apps/alibaba-local-services/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
